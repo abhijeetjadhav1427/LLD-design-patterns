@@ -2,7 +2,7 @@
 https://docs.google.com/document/d/1XkWD_JzGObDmZVPvgAR5FQvfV02Oan_xWbhmi21Fmy8/edit#
 
 
-creational: Used for creating or instantiating objects and classes 
+creational: Used for creating or instantiating objects and classes \\n
     1) Factory Method
     2) Abstract Factory Method
     3) Builder
